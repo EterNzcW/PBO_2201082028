@@ -6,7 +6,7 @@ package pbo_2201082028;
 
 /**
  *
- * @author LAB-MM
+ * @author acer2
  */
 public class PBO_2201082028 {
 

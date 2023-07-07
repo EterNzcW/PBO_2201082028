@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 import farigmuhammad.controller.*;
 /**
  *
- * @author LAB-MM
+ * @author acer2
  */
 public class formAnggota extends javax.swing.JFrame {
 

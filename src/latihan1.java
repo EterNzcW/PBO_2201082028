@@ -5,7 +5,7 @@
 
 /**
  *
- * @author LAB-MM
+ * @author acer2
  */
 public class latihan1 {
     

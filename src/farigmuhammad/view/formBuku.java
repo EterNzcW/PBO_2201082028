@@ -9,7 +9,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author LAB-MM
+ * @author acer2
  */
 public class formBuku extends javax.swing.JFrame {
 
